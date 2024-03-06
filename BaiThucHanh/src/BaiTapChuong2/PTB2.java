@@ -9,6 +9,7 @@ public class PTB2 {
         b = sc.nextDouble();
         System.out.println("Nhap he so c = ");
         c = sc.nextDouble();
+        sc.close();
         if(a==0){
             if(b==0){
                 if(c==0){

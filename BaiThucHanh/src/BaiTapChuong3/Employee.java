@@ -30,7 +30,7 @@ public class Employee {
         return tuoi;
     }
     public void in(){
-        System.out.println("Ho va ten : "+ten);
+        System.out.println("\n \n \n Ho va ten : "+ten);
         System.out.println("Tuoi : "+tuoi);
         System.out.println("Chuc vu : "+chucvu);
         System.out.println("Luong : "+Luong);
