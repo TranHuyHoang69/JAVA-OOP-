@@ -1,3 +1,4 @@
+package BaiTapChuong3.Nguoi;
 import java.util.Scanner;
 
 public class Employee {
@@ -30,7 +31,7 @@ public class Employee {
         return tuoi;
     }
     public void in(){
-        System.out.println("\n \n \n Ho va ten : "+ten);
+        System.out.println("\n \n \nHo va ten : "+ten);
         System.out.println("Tuoi : "+tuoi);
         System.out.println("Chuc vu : "+chucvu);
         System.out.println("Luong : "+Luong);

@@ -1,3 +1,4 @@
+package BaiTapChuong3.Nguoi;
 import java.util.Scanner;
 public class Student {
     public String name;

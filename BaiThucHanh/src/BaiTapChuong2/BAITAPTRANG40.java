@@ -1,3 +1,4 @@
+package BaiTapChuong2;
 import java.util.Scanner;
 public class BAITAPTRANG40 {
     public static void main(String[] args) {
