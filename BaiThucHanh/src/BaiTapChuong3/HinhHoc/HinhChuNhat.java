@@ -1,4 +1,4 @@
-package BaiTapChuong3.HinhHoc;
+package BaiTapChuong3.BaiTapTrang79.util.HinhHoc;
 
 public class HinhChuNhat {
     public float chieudai;

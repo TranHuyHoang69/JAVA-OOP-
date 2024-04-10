@@ -1,4 +1,4 @@
-package BaiTapChuong3.HinhHoc;
+package BaiTapChuong3.BaiTapTrang79.util.HinhHoc;
 import java.util.Scanner;
 
 public class HinhTron {
