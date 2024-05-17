@@ -1,4 +1,4 @@
-package Sets;
+package BaiTapChuong4.Sets;
 import java.util.Scanner;
 public class StudentSet {
     public String fullname;

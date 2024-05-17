@@ -3,7 +3,7 @@ public class Aatrox implements LeagueOfLegends {
     public void Name(){
         System.out.println("Champion:Aatrox");
     }
-    public void Race(){
+    public void Races(){
         System.out.println("Race:Darkin");
     }
     public void Position(){

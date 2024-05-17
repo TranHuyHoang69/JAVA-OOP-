@@ -1,4 +1,4 @@
-package Lists;
+package BaiTapChuong4.Lists;
 import java.util.LinkedList;
 public class LinkedListDemo {
     public static void main(String[] args) {

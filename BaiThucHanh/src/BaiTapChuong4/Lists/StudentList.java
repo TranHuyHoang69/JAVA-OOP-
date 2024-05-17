@@ -1,4 +1,4 @@
-package Lists;
+package BaiTapChuong4.Lists;
 import java.util.Scanner;
 
 public class StudentList {
