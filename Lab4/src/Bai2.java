@@ -1,6 +1,5 @@
 import java.util.LinkedList;
 import java.util.Scanner;
-
 public class Bai2 {
     public static void main(String[] args) {
         LinkedList<Integer> average = new LinkedList<>();
