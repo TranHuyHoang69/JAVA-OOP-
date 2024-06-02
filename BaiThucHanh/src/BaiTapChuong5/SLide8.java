@@ -5,7 +5,6 @@ public class SLide8 {
         try{
              int a[] =  new int[5];
              a[5] = 30/0 ;
-             a[1] = 30/5;
         }catch(ArithmeticException e){
             System.out.println("Task 1 is completed");
         }catch(ArrayIndexOutOfBoundsException e){
